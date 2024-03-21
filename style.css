@@ -1,0 +1,19 @@
+#playbutton {
+    position: absolute;
+    top: 200px;
+}
+#key {
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+div.whitekey {
+    background-color: white;
+}
+div.blackkey {
+    background-color: black;
+}
+div.selected {
+    background-color: rgb(255, 24, 24);
+}
